@@ -1,7 +1,7 @@
 html {
     font-family: 'Montserrat', sans-serif;
-  }
+}
 
-  abbr, h4 abbr {
-    cursor: help;
-  }
+abbr {
+  cursor: help; 
+}
